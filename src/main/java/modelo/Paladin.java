@@ -16,6 +16,6 @@ public class Paladin extends Personaje {
     
     @Override
     public String realizarAtaque (){
-        return "Con su mazo sagrado hace un daño radiante";
+        return "Con su mazo sagrado hace un daño radiante";  
     }
 }
