@@ -18,5 +18,5 @@ public class vistaCombate {
     public void mostrarAtaque(String nombrePersonaje, String accionAtaque){
         System.out.println("¡Boom!"+ nombrePersonaje+"->"+accionAtaque); 
     }
-}
+} 
 
