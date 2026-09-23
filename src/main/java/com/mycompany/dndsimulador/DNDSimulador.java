@@ -30,7 +30,7 @@ public class DNDSimulador {
         //inicializamos el controlador (inyectar el modelo y la vista)
         ControladorCombate controlador = new ControladorCombate(miGrupo,miVista);
         
-        //la logica de la coordinacion
+        //la logica de la coordinacion 
         controlador.ejecutarRonda();
     }
 }
